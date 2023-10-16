@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "site.hellishmods.letmetest.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "client": [
+      "AllowsMultiplayerMixin"
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    },
+    "refmap": "hellishmixins.refmap.json",
+    "minVersion": "0.8"
+}
